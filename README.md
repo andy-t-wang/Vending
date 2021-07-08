@@ -7,7 +7,7 @@ dependencies:
 
 ```sh
 Clone the repo
-cd vending-token
+cd vending
 npm install
 ```
 
